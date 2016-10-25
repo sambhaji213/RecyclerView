@@ -2,6 +2,7 @@
 Android RecyclerView is more advanced version of ListView with improved performance and other benefits. Using RecyclerView and CardView together, both lists and grids can be created very easily. Here is the complete information about RecyclerView and other examples.  In this tutorial we are going to learn how to render a simple RecyclerView with a custom layout. We’ll also learn writing a adapter class, adding list divider and row click listener. The recycler view we are going to design contains list of image, school name, status, mobile
 
 <a href="url"><img src="https://raw.githubusercontent.com/sambhaji213/RecyclerView/master/screenshot/device-2016-10-25-105037.png" align="left" height="480" width="250" ></a>
+<br />
 
 **activity_main.xml**
 <?xml version="1.0" encoding="utf-8"?>
